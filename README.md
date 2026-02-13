@@ -1,0 +1,2 @@
+# Breast-Cancer-Diagnosis-From-Scratch-ML-Implementation-by-Decision-Trees-SVM-and-Neural-Networks
+A comprehensive implementation of three fundamental machine learning algorithms from scratch for breast cancer tumor classification. This project demonstrates deep understanding of ML fundamentals by building Decision Trees, Support Vector Machines (SVM), and Neural Networks without relying on high-level libraries like scikit-learn.
